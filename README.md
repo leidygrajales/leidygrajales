@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leidy Grajales</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate full stack developer student from Spain</h3>
 
 - 💻 I’m currently studying on [CODERHOUSE](www.coderhouse.es)
 
